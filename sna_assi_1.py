@@ -69,7 +69,6 @@ no_of_triangles=sum(t.values())//3
 print(no_of_triangles)
 
 """4. Diameter
-
 """
 
 nx.diameter(G)
